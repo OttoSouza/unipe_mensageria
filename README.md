@@ -1,8 +1,8 @@
 # Rotas
 
-##Post
+## Post
 * /api/anime
 
-##Get
+## Get
 * /api/anime
 * /api/consumer
